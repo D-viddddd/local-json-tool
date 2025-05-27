@@ -47,8 +47,12 @@ Visit: `http://localhost:8080/index.html`
 ## 📁 Project Structure
 
 ```
-json-tool/
-├── json_tool_enhanced.html  # Main tool (open in browser)
+local-json-tool/
+├── src/                     # Source files
+│   ├── index.html           # Main HTML file
+├── img/                     # Images for documentation
+│   ├── light_mode.png       # Light theme screenshot
+│   ├── dark_mode.png        # Dark theme screenshot
 ├── README.md                # English documentation
 ```
 
